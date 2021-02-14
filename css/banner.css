@@ -1,0 +1,21 @@
+.banner {
+	display: block;
+	width: 95vw;
+	margin: 5rem  auto;
+	height: 440px;
+	a
+}
+.banner-img {
+	float: left;
+	width: 480px;
+	margin-right: 5rem;
+}
+.banner-h2 {
+	font-size: 2rem;
+	font-weight: bold;
+	padding: 4rem 0;
+}
+.banner-h2 span {
+	color: #D6000D;
+	font-size: 5rem;
+}

@@ -1,0 +1,20 @@
+.button-pad {
+	background-color: #D6000D;
+	border: none;
+	border-radius: 10px;
+	color: #FFF;
+	font-size: 1rem;
+	font-weight: bold;
+	padding: .5rem 0;
+
+}
+.button-pad:hover {
+	cursor: pointer;
+}
+
+.button__navigation {
+	width: 8.5rem;
+}
+.button__banner {
+	width: 25rem;
+}

@@ -22,16 +22,3 @@
 	text-decoration: none;
 	margin-right: 1.3rem;
 }
-.navigation-button {
-	background-color: #D6000D;
-	border: none;
-	border-radius: 10px;
-	color: #FFF;
-	font-size: 1rem;
-	font-weight: bold;
-	width: 8.5rem;
-	padding: .5rem 0;
-}
-.navigation-button:hover {
-	cursor: pointer;
-}

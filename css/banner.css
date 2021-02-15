@@ -1,9 +1,7 @@
 .banner {
 	display: block;
-	width: 95vw;
-	margin: 5rem  auto;
+	margin-bottom: 5rem;
 	height: 440px;
-	a
 }
 .banner-img {
 	float: left;

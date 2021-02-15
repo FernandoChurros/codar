@@ -1,0 +1,31 @@
+.info {
+	background-image: url("../assets/coding_.png");
+	background-size: 500px 400px;
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.beneficios {
+	line-height: 2;
+	font-size: 1.8rem;
+}
+.equipe {
+	margin-top: 5rem;
+}
+.equipe p {
+	font-weight: bold;
+	margin-bottom: 1rem;
+}
+.padding{
+	border: 0 solid #000;
+	border-radius: 10px;
+	padding: 15px;
+	width: 170px;
+	font-weight: normal;
+}
+.padding.--color{
+	background-color: #bababa;
+}
+.item-beneficios::before {
+	content: "✅";
+	padding-right: 15px;
+}

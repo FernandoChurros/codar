@@ -1,0 +1,25 @@
+.coments {
+   display: flex;
+   margin-top: 15rem;
+   justify-content: space-around;
+}
+.box-coments {
+   background-color: #c1bfc2;
+   padding: 2rem;
+   border-radius: 10px;
+   display: inline-flex;
+   width: 500px;
+   text-align: justify;
+}
+.box-coments img {
+   border-radius: 50%;
+}
+.box-coments .avaliation {
+   margin-left: 2rem;
+}
+.box-coments .avaliation p {
+   margin-bottom: .8rem;
+}
+.box-coments .avaliation h3 {
+   font-weight: bold;
+}
